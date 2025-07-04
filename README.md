@@ -25,3 +25,5 @@ Also, [Machine Hacker](https://chatgpt.com/g/g-68085fe3c0708191b81d34521209d3f7-
 [Electrochem Hacks](https://chatgpt.com/g/g-67fa33d6b6a48191b6e2cca467db5b9d-electrochem-hacks)
 <br>
 [Upgrade Hacker](https://chatgpt.com/g/g-6812c87828b48191bafde309a30b7682-upgrade-hacker)
+<br>
+[EV Hacks](https://chatgpt.com/g/g-67acbcf590288191b06163628f913851-ev-hacks)
