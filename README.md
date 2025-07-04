@@ -26,6 +26,8 @@ Also, [Machine Hacker](https://chatgpt.com/g/g-68085fe3c0708191b81d34521209d3f7-
 <br>
 [Upgrade Hacker](https://chatgpt.com/g/g-6812c87828b48191bafde309a30b7682-upgrade-hacker)
 <br>
+[Shopping Hacker](https://chatgpt.com/g/g-6814f81bf44c81919a26dabaec6ac08c-shopping-hacker)
+<br>
 [EV Hacks](https://chatgpt.com/g/g-67acbcf590288191b06163628f913851-ev-hacks)
 <br>
 [Sports Hacker](https://chatgpt.com/g/g-67add266555c819196313fb5740fe865-sports-hacker)
@@ -43,3 +45,5 @@ Also, [Machine Hacker](https://chatgpt.com/g/g-68085fe3c0708191b81d34521209d3f7-
 [Windows Hacker](https://chatgpt.com/g/g-67ae3224ebec8191893c5cbac843bf99-windows-hacker)
 <br>
 [Business Hacker](https://chatgpt.com/g/g-67e756fa7b948191b1881c3d7358533c-business-hacker)
+<br>
+[Racing Hacker](https://chatgpt.com/g/g-680b4e824e848191b53602079f3c278c-racing-hacker)
