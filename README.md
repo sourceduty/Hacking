@@ -27,3 +27,7 @@ Also, [Machine Hacker](https://chatgpt.com/g/g-68085fe3c0708191b81d34521209d3f7-
 [Upgrade Hacker](https://chatgpt.com/g/g-6812c87828b48191bafde309a30b7682-upgrade-hacker)
 <br>
 [EV Hacks](https://chatgpt.com/g/g-67acbcf590288191b06163628f913851-ev-hacks)
+<br>
+[Sports Hacker](https://chatgpt.com/g/g-67add266555c819196313fb5740fe865-sports-hacker)
+<br>
+[IoT Hacker](https://chatgpt.com/g/g-ZeaWspw0A-iot-hacker)
