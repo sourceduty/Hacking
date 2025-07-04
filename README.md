@@ -31,3 +31,7 @@ Also, [Machine Hacker](https://chatgpt.com/g/g-68085fe3c0708191b81d34521209d3f7-
 [Sports Hacker](https://chatgpt.com/g/g-67add266555c819196313fb5740fe865-sports-hacker)
 <br>
 [IoT Hacker](https://chatgpt.com/g/g-ZeaWspw0A-iot-hacker)
+<br>
+[Golfing Hacker](https://chatgpt.com/g/g-67e95a58b58881919d299202c608a73f-golfing-hacker)
+<br>
+[Law Hacker](https://chatgpt.com/g/g-680873e597488191942a02c2a9f14d42-law-hacker)
