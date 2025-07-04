@@ -6,7 +6,7 @@ Hacking refers to the practice of gaining unauthorized access to systems, networ
 
 ![Hacked](https://github.com/user-attachments/assets/537dc123-9e30-472a-aa7d-1d95f1bdb172)
 
-[Hack Mod](https://chat.openai.com/g/g-iCi2ECQ54-hack-mod) is a custom GPT made to guide users for hardware and firmware modifications across a wide range of electronic devices. It offers detailed advice on customizing and enhancing devices such as smartphones, laptops, smart home gadgets, and DIY IoT projects. Hack & Mod emphasizes safe, methodical approaches to modifications, ensuring users understand the importance of backups, compatibility, and troubleshooting. It also encourages responsible and ethical modification practices, advising users to respect legal boundaries such as intellectual property, privacy laws, and device security. Whether for beginner or advanced projects, Hack & Mod provides clear, actionable insights to help users successfully complete their modifications.
+[Hack & Mod](https://chat.openai.com/g/g-iCi2ECQ54-hack-mod) is a custom GPT made to guide users for hardware and firmware modifications across a wide range of electronic devices. It offers detailed advice on customizing and enhancing devices such as smartphones, laptops, smart home gadgets, and DIY IoT projects. Hack & Mod emphasizes safe, methodical approaches to modifications, ensuring users understand the importance of backups, compatibility, and troubleshooting. It also encourages responsible and ethical modification practices, advising users to respect legal boundaries such as intellectual property, privacy laws, and device security. Whether for beginner or advanced projects, Hack & Mod provides clear, actionable insights to help users successfully complete their modifications.
 
 #
 
