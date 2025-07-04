@@ -35,3 +35,11 @@ Also, [Machine Hacker](https://chatgpt.com/g/g-68085fe3c0708191b81d34521209d3f7-
 [Golfing Hacker](https://chatgpt.com/g/g-67e95a58b58881919d299202c608a73f-golfing-hacker)
 <br>
 [Law Hacker](https://chatgpt.com/g/g-680873e597488191942a02c2a9f14d42-law-hacker)
+<br>
+[Hack Automation](https://chatgpt.com/g/g-zGNpuVYNZ-hack-automation)
+<br>
+[Hackathon](https://chatgpt.com/g/g-67561a37dae4819192b0cd0c0804e4a1-hackathon)
+<br>
+[Windows Hacker](https://chatgpt.com/g/g-67ae3224ebec8191893c5cbac843bf99-windows-hacker)
+<br>
+[Business Hacker](https://chatgpt.com/g/g-67e756fa7b948191b1881c3d7358533c-business-hacker)
