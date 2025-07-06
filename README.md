@@ -4,6 +4,12 @@ Hacking refers to the practice of gaining unauthorized access to systems, networ
 
 #
 
+![Software and Hardware Hacking](https://github.com/user-attachments/assets/ce3a4303-89be-4354-b14e-92fa30133d15)
+
+The graph illustrates the evolving popularity of software and hardware hacking from the 1960s through a projected 2030s, highlighting a steady rise in interest and activity in both domains. Initially, both fields began with minimal popularity in the 1960s, reflecting the niche and academic nature of early computer use. Hardware hacking experienced modest growth through the 1970s and 1980s, spurred by the emergence of personal computing and DIY electronics movements like the Homebrew Computer Club. Meanwhile, software hacking gained momentum more rapidly starting in the 1980s with the spread of operating systems and the internet, peaking in the 2010s as digital security, open-source platforms, and coding culture flourished. The 2020s show a strong upward trend in both fields, significantly influenced by advancements in artificial intelligence, which has empowered more individuals to automate, customize, and optimize both code and devices with less technical overhead. Looking ahead, the projected rise in the 2030s reflects expectations that AI-driven tools, low-code platforms, and smart hardware will continue to blur the lines between software and hardware development, leading to even greater integration of hacking culture into mainstream innovation, prototyping, and creative exploration.
+
+#
+
 ![Hacked](https://github.com/user-attachments/assets/537dc123-9e30-472a-aa7d-1d95f1bdb172)
 
 [Hack & Mod](https://chat.openai.com/g/g-iCi2ECQ54-hack-mod) is a custom GPT made to guide users for hardware and firmware modifications across a wide range of electronic devices. It offers detailed advice on customizing and enhancing devices such as smartphones, laptops, smart home gadgets, and DIY IoT projects. Hack & Mod emphasizes safe, methodical approaches to modifications, ensuring users understand the importance of backups, compatibility, and troubleshooting. It also encourages responsible and ethical modification practices, advising users to respect legal boundaries such as intellectual property, privacy laws, and device security. Whether for beginner or advanced projects, Hack & Mod provides clear, actionable insights to help users successfully complete their modifications.
