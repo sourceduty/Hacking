@@ -32,6 +32,12 @@ Sourceduty has an upcoming new project focused on IC logic, marking a rare momen
 
 #
 
+![Tablet](https://github.com/user-attachments/assets/7593428f-3c5b-4fb6-9cf8-89832cad5dee)
+
+Hacking tablets, both electronically and through software, presents unique challenges due to the closed nature of most tablet operating systems and their reliance on proprietary hardware. However, the rise of AI has significantly simplified and enhanced the process. AI-driven tools can automate much of the tedious groundwork, such as identifying vulnerabilities, creating exploits, and even suggesting optimal modification paths based on the device's specifications and software version. For hardware-level hacks, AI can assist in developing custom firmware or helping bypass security protocols using machine learning to predict and test various attack vectors. On the software side, AI can enhance reverse engineering efforts by analyzing the structure of firmware, app security, and OS integrity, allowing hackers to develop more precise and effective tools for breaking through restrictions. Additionally, AI-based tools are increasingly adept at automating the tedious manual tasks of cracking passwords, bypassing encryption, or testing various combinations of system tweaks. While hardware modifications still require deep knowledge of electronics, AI accelerates the process by providing predictive models that reduce the need for trial-and-error in reverse engineering. As a result, hacking tablets has become more efficient, but it still requires a deep understanding of the device’s architecture and legal considerations, particularly regarding data privacy and intellectual property rights.
+
+#
+
 [Game Hacker](https://chatgpt.com/g/g-67558cfe8db88191940babcbda59243e-game-hacker)
 <br>
 [Musical Instrument Hacks](https://chatgpt.com/g/g-68188893496c8191887d7cffd6a8653d-musical-instrument-hacks)
